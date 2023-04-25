@@ -58,7 +58,7 @@ public class Tarea6 {
     	
 
         SelectionSort selectionSort = new SelectionSort();
-		int[] array1 = { 10, 1, 5, 40, 12, 34, 44, 12, 11, 9 };
+		int[] array1 = { 10, 1, 4, 40, 12, 34, 44, 12, 11, 9 };
 		selectionSort.printArray(array1);
 		selectionSort.sortArray(array1);
 		selectionSort.printArray(array1);
